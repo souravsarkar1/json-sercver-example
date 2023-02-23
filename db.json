@@ -1,5 +1,9 @@
 {
-  "user": [
+  "user"
+  
+  
+  
+  : [
     {
       "firstname": "Sourav",
       "lastname": "Sarkar",
@@ -17,9 +21,18 @@
       "id": "Skj9hSQe1J"
     }
   ],
-  "menProductsTBottomWare": [],
-  "menProductsTopWare": [
-    { "id":1, "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1200" },
+  "menProductsTBottomWare"
+  
+  
+  
+  : [],
+  "menProductsTopWare"
+  
+  
+  
+  
+  : [
+  { "id":1, "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1200" },
   { "id":2, "img": "https://images.bewakoof.com/t640/men-s-blue-justice-league-society-sleeve-t-shirt-580630-1676869549-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1200" },
   { "id":3, "img": "https://images.bewakoof.com/t640/men-s-grey-old-school-t-shirt-580993-1676885189-1.jpg", "title": "Mens t-shitt premioun quality", "price": "399", "originalprice": "1200" },
   { "id":4, "img": "https://images.bewakoof.com/t640/men-s-red-old-school-graphic-printed-oversized-plus-size-t-shirt-581272-1676971229-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1200" },
@@ -78,8 +91,67 @@
   { "id":58   , "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
   { "id":59   , "img": "https://images.bewakoof.com/t640/blue-vibes-half-sleeve-t-shirt-black-298517-1655749399-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
   { "id":60   , "img": "https://images.bewakoof.com/t640/torque-half-sleeve-t-shirt-459652-1655749277-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
-  { "id":61   , "img": "https://images.bewakoof.com/t640/pageant-blue-candy-block-half-sleeve-t-shirt-333629-1656184294-6.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" }
-
+  { "id":61   , "img": "https://images.bewakoof.com/t640/pageant-blue-candy-block-half-sleeve-t-shirt-333629-1656184294-6.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":11, "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1200" },
+  { "id":12, "img": "https://images.bewakoof.com/t640/men-s-blue-justice-league-society-sleeve-t-shirt-580630-1676869549-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1200" },
+  { "id":13, "img": "https://images.bewakoof.com/t640/men-s-grey-old-school-t-shirt-580993-1676885189-1.jpg", "title": "Mens t-shitt premioun quality", "price": "399", "originalprice": "1200" },
+  { "id":14, "img": "https://images.bewakoof.com/t640/men-s-red-old-school-graphic-printed-oversized-plus-size-t-shirt-581272-1676971229-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1200" },
+  { "id":15, "img": "https://images.bewakoof.com/t640/men-s-grey-old-school-full-sleeve-t-shirt-580631-1676869591-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1200" },
+  { "id":16, "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1200" },
+  { "id":17, "img": "https://images.bewakoof.com/t640/men-s-purple-justice-league-society-graphic-printed-oversized-t-shirt-581274-1676971303-1.jpg", "title": "Mens t-shitt Stylish quality", "price": "699", "originalprice": "1200" },
+  { "id":18, "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1200" },
+  { "id":19, "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1200" },
+  { "id":110, "img": "https://images.bewakoof.com/t640/hod-iconic-half-sleeve-t-shirt-519411-1657896509-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1200" },
+  { "id":111, "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1200" },
+  { "id":112, "img": "https://images.bewakoof.com/t640/men-s-black-friends-logo-t-shirt-234662-1659608737-4.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1200" },
+  { "id":113, "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1200" },
+  { "id":114, "img": "https://images.bewakoof.com/t640/men-s-black-save-our-home-t-shirt-276160-1655747776-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1200" },
+  { "id":115, "img": "https://images.bewakoof.com/t640/game-over-minimal-half-sleeve-t-shirt-navy-blue-305202-1655748497-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":116, "img": "https://images.bewakoof.com/t640/men-s-purple-venom-street-graphic-printed-oversized-t-shirt-547537-1670828932-1.jpg", "title": "Mens t-shitt Blue quality", "price": "699", "originalprice": "1000" },
+  { "id":117, "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":118, "img": "https://images.bewakoof.com/t640/blue-vibes-half-sleeve-t-shirt-black-298517-1655749399-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":119, "img": "https://images.bewakoof.com/t640/torque-half-sleeve-t-shirt-459652-1655749277-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":120, "img": "https://images.bewakoof.com/t640/pageant-blue-candy-block-half-sleeve-t-shirt-333629-1656184294-6.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "800" },
+  { "id":121, "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "800" },
+  { "id":122, "img": "https://images.bewakoof.com/t640/men-s-blue-justice-league-society-sleeve-t-shirt-580630-1676869549-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "800" },
+  { "id":123, "img": "https://images.bewakoof.com/t640/men-s-grey-old-school-t-shirt-580993-1676885189-1.jpg", "title": "Mens t-shitt premioun quality", "price": "399", "originalprice": "800" },
+  { "id":124, "img": "https://images.bewakoof.com/t640/men-s-red-old-school-graphic-printed-oversized-plus-size-t-shirt-581272-1676971229-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "800" },
+  { "id":125, "img": "https://images.bewakoof.com/t640/men-s-grey-old-school-full-sleeve-t-shirt-580631-1676869591-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "800" },
+  { "id":126, "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "800" },
+  { "id":128   , "img": "https://images.bewakoof.com/t640/men-s-purple-justice-league-society-graphic-printed-oversized-t-shirt-581274-1676971303-1.jpg", "title": "Mens t-shitt Stylish quality", "price": "699", "originalprice": "800" },
+  { "id":129 , "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "800" },
+  { "id":130  , "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "800" },
+  { "id":131   , "img": "https://images.bewakoof.com/t640/hod-iconic-half-sleeve-t-shirt-519411-1657896509-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "800" },
+  { "id":132  , "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "800" },
+  { "id":133   , "img": "https://images.bewakoof.com/t640/men-s-black-friends-logo-t-shirt-234662-1659608737-4.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "800" },
+  { "id":134   , "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "800" },
+  { "id":135   , "img": "https://images.bewakoof.com/t640/men-s-black-save-our-home-t-shirt-276160-1655747776-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "800" },
+  { "id":136   , "img": "https://images.bewakoof.com/t640/game-over-minimal-half-sleeve-t-shirt-navy-blue-305202-1655748497-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "800" },
+  { "id":137   , "img": "https://images.bewakoof.com/t640/men-s-purple-venom-street-graphic-printed-oversized-t-shirt-547537-1670828932-1.jpg", "title": "Mens t-shitt Blue quality", "price": "699", "originalprice": "1000" },
+  { "id":138   , "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":139   , "img": "https://images.bewakoof.com/t640/blue-vibes-half-sleeve-t-shirt-black-298517-1655749399-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":141   , "img": "https://images.bewakoof.com/t640/torque-half-sleeve-t-shirt-459652-1655749277-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":142  , "img": "https://images.bewakoof.com/t640/pageant-blue-candy-block-half-sleeve-t-shirt-333629-1656184294-6.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":143   , "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":144   , "img": "https://images.bewakoof.com/t640/men-s-blue-justice-league-society-sleeve-t-shirt-580630-1676869549-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":145   , "img": "https://images.bewakoof.com/t640/men-s-grey-old-school-t-shirt-580993-1676885189-1.jpg", "title": "Mens t-shitt premioun quality", "price": "399", "originalprice": "1000" },
+  { "id":146   , "img": "https://images.bewakoof.com/t640/men-s-red-old-school-graphic-printed-oversized-plus-size-t-shirt-581272-1676971229-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":147   , "img": "https://images.bewakoof.com/t640/men-s-grey-old-school-full-sleeve-t-shirt-580631-1676869591-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":148   , "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":149   , "img": "https://images.bewakoof.com/t640/men-s-purple-justice-league-society-graphic-printed-oversized-t-shirt-581274-1676971303-1.jpg", "title": "Mens t-shitt Stylish quality", "price": "699", "originalprice": "1000" },
+  { "id":140   , "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":150    , "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":151   , "img": "https://images.bewakoof.com/t640/hod-iconic-half-sleeve-t-shirt-519411-1657896509-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":152   , "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":153   , "img": "https://images.bewakoof.com/t640/men-s-black-friends-logo-t-shirt-234662-1659608737-4.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":154   , "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":155   , "img": "https://images.bewakoof.com/t640/men-s-black-save-our-home-t-shirt-276160-1655747776-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":156   , "img": "https://images.bewakoof.com/t640/game-over-minimal-half-sleeve-t-shirt-navy-blue-305202-1655748497-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":157   , "img": "https://images.bewakoof.com/t640/men-s-purple-venom-street-graphic-printed-oversized-t-shirt-547537-1670828932-1.jpg", "title": "Mens t-shitt Blue quality", "price": "699", "originalprice": "1000" },
+  { "id":158   , "img": "https://images.bewakoof.com/t640/men-s-brown-justice-league-society-sleeve-t-shirt-580619-1676869337-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":159   , "img": "https://images.bewakoof.com/t640/blue-vibes-half-sleeve-t-shirt-black-298517-1655749399-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":160   , "img": "https://images.bewakoof.com/t640/torque-half-sleeve-t-shirt-459652-1655749277-1.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" },
+  { "id":161   , "img": "https://images.bewakoof.com/t640/pageant-blue-candy-block-half-sleeve-t-shirt-333629-1656184294-6.jpg", "title": "Mens t-shitt premioun quality", "price": "699", "originalprice": "1000" }
   ],
   "menProductsWinter": [],
   "womemenProductsTopWare": [],
